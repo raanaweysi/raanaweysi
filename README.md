@@ -5,7 +5,7 @@
 -  and I strongly believe in planning and discipline. 
 - - 🌱 I’m currently learning front-end programming and learning English
 - 💞️ I’m looking to collaborate on so I can learn new things from it
-- 📫 How to reach me raanaweysi.github.io
+- 📫 How to reach me ranaweysi@gmail.com
 
 <!---
 raanaweysi/raanaweysi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
